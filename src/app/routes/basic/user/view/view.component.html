@@ -1,0 +1,15 @@
+<!-- <div class="drawer-header">
+  <div class="drawer-title">{{ record.id }} </div>
+</div> -->
+<nz-spin *ngIf="!i" class="drawer-spin"></nz-spin>
+<div sv-container *ngIf="i" [layout]="'horizontal'" [col]='1'>
+  <sv label="编号">{{ i.id }}</sv>
+  <sv label="姓名">{{ i.user_name }}</sv>
+  <sv label="联系方式">{{i.user_phone}}</sv>
+  <sv label="身份证">{{i.id_card}}</sv>
+  <sv label="邮箱">{{i.user_email}}</sv>
+  <!-- <sv label="联系地址"></sv> -->
+</div>
+<div class="drawer-footer">
+  <button nz-button type="button" (click)="close()">关闭</button>
+</div>

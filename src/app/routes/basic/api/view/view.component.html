@@ -1,0 +1,12 @@
+<div class="modal-header">
+  <div class="modal-title">查看 {{ record.id }} 信息</div>
+</div>
+<nz-spin *ngIf="!i" class="modal-spin"></nz-spin>
+<div sv-container *ngIf="i" col="1">
+  <sv label="服务名称">{{ i.service }}</sv>
+  <sv label="方法名称">{{i.method}}</sv>
+  <sv label="说明">{{i.api_explain}}</sv>
+</div>
+<div class="modal-footer">
+  <button nz-button type="button" (click)="close()">关闭</button>
+</div>

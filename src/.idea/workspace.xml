@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f56fbcb6-9825-4da1-af19-357f5dbe981c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.nvmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README-zh_CN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cli-tpl/test/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cli-tpl/test/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_cli-tpl/test/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_mock/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_mock/_user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_mock/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ng-alain.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/core.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/i18n/i18n.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/i18n/i18n.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/module-import-guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/net/default.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/startup/startup.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/global-config.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/default.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/default.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/fullscreen.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/i18n.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/icon.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/notify.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/search.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/storage.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/task.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/components/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/header.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/header.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/header/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/setting-drawer/setting-drawer-item.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/setting-drawer/setting-drawer-item.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/setting-drawer/setting-drawer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/setting-drawer/setting-drawer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/sidebar/sidebar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/default/sidebar/sidebar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/fullscreen/fullscreen.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/fullscreen/fullscreen.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/layout.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/passport/passport.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/passport/passport.component.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/layout/passport/passport.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/app-data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/basic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/api/api.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/api/api.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/api/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/api/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/api/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/api/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic/basic.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic/basic.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/basic/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/menu/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/menu/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/menu/menu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/menu/menu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/menu/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/menu/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/shop/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/shop/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/shop/shop.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/shop/shop.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/shop/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/shop/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/srv/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/srv/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/srv/srv.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/srv/srv.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/srv/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/srv/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/tree/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/tree/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/tree/tree.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/tree/tree.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/tree/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/tree/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/user/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/user/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/user/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/user/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/usergroup/edit/edit.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/usergroup/edit/edit.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/usergroup/usergroup.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/usergroup/usergroup.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/usergroup/view/view.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/basic/usergroup/view/view.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/callback/callback.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/dashboard/dashboard.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/dashboard/dashboard.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/exception/403.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/exception/404.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/exception/500.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/exception/exception-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/exception/exception.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/exception/trigger.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/lock/lock.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/lock/lock.component.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/lock/lock.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login.component.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login/login.component.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login/login/login.component.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/login/login/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/register-result/register-result.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/register-result/register-result.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/register/register.component.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/passport/register/register.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/routes-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/routes.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/json-schema/json-schema.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/shared-delon.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/shared-zorro.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/st-widget/st-widget.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/shared/utils/yuan.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo-color.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/app-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/el-GR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/en-US.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/hr-HR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/ko-KR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/pl-PL.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/sl-SI.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/tr-TR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/zh-CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/i18n/zh-TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/bg9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/tmp/img/half-float-bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/zorro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/environments/environment.hmr.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmr.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style-icons-auto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style-icons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.less" beforeDir="false" afterPath="$PROJECT_DIR$/styles.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tslint.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f56fbcb6-9825-4da1-af19-357f5dbe981c" name="Default Changelist" comment="" />
+      <created>1603877479590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603877479590</updated>
+      <workItem from="1603877482947" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

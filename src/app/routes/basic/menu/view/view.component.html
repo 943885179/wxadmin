@@ -1,0 +1,15 @@
+<div class="modal-header">
+  <div class="modal-title">查看 {{ record.id }} 信息</div>
+</div>
+<nz-spin *ngIf="!i" class="modal-spin"></nz-spin>
+<div sv-container *ngIf="i" [col]='1'>
+  <sv label="id">{{ i.id }}</sv>
+  <sv label="菜单名称">{{i.text}}</sv>
+  <sv label="图标">{{i.icon}}</sv>
+  <sv label="路由">{{i.link}}</sv>
+  <sv label="外部链接">{{i.external_link}}</sv>
+  <sv label="国际化">{{i.i_18_n}}</sv>
+</div>
+<div class="modal-footer">
+  <button nz-button type="button" (click)="close()">关闭</button>
+</div>
